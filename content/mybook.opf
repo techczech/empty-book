@@ -10,5 +10,5 @@
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
   <item href="nouns-1caa2c2e-fb40-45ef-ae59-f12775269df4.html" id="nouns-1caa2c2e-fb40-45ef-ae59-f12775269df4.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="nouns-1caa2c2e-fb40-45ef-ae59-f12775269df4.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="nouns-1caa2c2e-fb40-45ef-ae59-f12775269df4.html"></itemref></spine>
 </package>
